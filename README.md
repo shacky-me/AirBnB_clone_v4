@@ -213,6 +213,7 @@ github repo
 ## Authors
 
 ** Caleb Nyong
+** Meshack Kiprono
 
 ## License
 
